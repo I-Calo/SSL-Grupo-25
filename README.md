@@ -3,3 +3,4 @@ SSL Grupo 25 K2055
 
 ## Miembros: 
 ### Agustin F. Trossero (git: ATrossero)
+### Ignacio Caló (I-Calo)
